@@ -4,7 +4,7 @@
   <title>Byclor</title>
   <link href="http://byclor.org/atom.xml" rel="self"/>
   <link href="http://byclor.org/"/>
-  <updated>2011-09-15T02:31:26+05:30</updated>
+  <updated>2011-09-26T11:55:02+05:30</updated>
   <id>http://byclor.org/</id>
   <author>
     <name>Vipul A M</name>
@@ -26,7 +26,7 @@
     <link href="http://byclor.org/blog/2011/09/14/hello-world/"/>
     <updated>2011-09-14T20:27:00+05:30</updated>
     <id>http://byclor.org/blog/2011/09/14/hello-world</id>
-    <content type="html">
+    <content type="html">&lt;p&gt;This is from the hello world post!&lt;/p&gt;
 </content>
   </entry>
   
